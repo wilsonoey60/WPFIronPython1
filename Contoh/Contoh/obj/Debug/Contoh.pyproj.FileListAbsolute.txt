@@ -1,0 +1,12 @@
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Contoh\Contoh\obj\Debug\Contoh.pyprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Contoh\Contoh\bin\Debug\Window1.xaml
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Contoh\Contoh\bin\Debug\Contoh.exe.config
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Contoh\Contoh\bin\Debug\Contoh.exe
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Contoh\Contoh\bin\Debug\Contoh.dll
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Contoh\Contoh\bin\Debug\IronPython.dll
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Contoh\Contoh\bin\Debug\IronPython.Modules.dll
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Contoh\Contoh\bin\Debug\IronPython.Wpf.dll
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Contoh\Contoh\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Contoh\Contoh\bin\Debug\Microsoft.Scripting.dll
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Contoh\Contoh\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\Contoh\Contoh\obj\Debug\Contoh.exe
